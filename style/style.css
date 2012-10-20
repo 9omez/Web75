@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+html {margin:20px;}
+.contenedor {
+	width:605px;
+	height:500px;
+	background:#fbe7da;
+}
+.contenido {
+	padding:20px;
+	padding-left:50px;
+	padding-right:30px;
+	width:341px;
+	float:right;
+	text-align:left;
+	background-image:url(../images/smile.png);
+	background-position:right top;
+	background-repeat:no-repeat;
+	height:460px;
+}
+.lateral {
+	width:184px;
+	height:480px;
+	background:#f7b288;
+	float:left;
+	padding-top:20px;
+}
+img {border:0px;}
+li {
+	color:#06F;
+	font-size:17px;
+}
+a {
+	color:#06F;
+	text-decoration:none;
+	outline:none;
+}
+.name {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:28px;
+	height:34px;
+}
+.position {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:18px;
+	color:#09F;
+	height:40px;
+}
+.departament {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:14px;
+	color:#093;
+	height:20px;
+}
+.company {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:14px;
+	color:#000;
+	height:30px;
+}
+.center {
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:14px;
+	color:#000;
+}
+hr {
+	height:2px;
+	background:#000;
+	border:0px;
+}
+.li {padding-left:20px;}
+table {
+	border-collapse:collapse;
+	border:none;
+}
+td {padding:0px;}
+td.space {width:20px;}
+div.space {height:20px;}
